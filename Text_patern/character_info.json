@@ -1,0 +1,17 @@
+{
+    "name": "Моє ім'я - Роузелія",
+    "race": [
+        "Моя раса - Людина",
+        "_h"
+    ],
+    "class": [
+        "Мій клас - Воїн",
+        "_f"
+    ],
+    "gender": [
+        "Моя стать - Жінка",
+        "_f"
+    ],
+    "first_file_path": "Murder_in_city\\beginning\\beginning.json",
+    "file_path_item": "Murder_in_city\\items.json"
+}
